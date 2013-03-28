@@ -1,9 +1,9 @@
 <h1>Módulo Trabalhe Conosco</h1>
 
-<h2>Compatibilidade<h2>
+<h2>Compatibilidade</h2>
 
 OpenCart 1.5.x
-<h2>Instalação:<h2>
+<h2>Instalação:</h2>
 
 1) Extrair para a raiz da loja.
 
