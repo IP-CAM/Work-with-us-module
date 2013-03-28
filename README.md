@@ -35,4 +35,5 @@ Autor Jano Sousa - http://www.scrollux.com.br
 </form>
 <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
 </div>
-@2013 Sob licença GPL.
+<h2>Licença</h2>
+<a href="https://github.com/apophis-cms/trabalhe-conosco/master/license.txt">GNU General Public License version 3 (GPLv3)</a>
