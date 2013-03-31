@@ -21,5 +21,10 @@ Autor Jano Sousa - http://www.scrollux.com.br
 <h2>Doações</h2>
 Realizar suas doações online para o <b>APOPHIS</b>. O PagSeguro oferece um ambiente para você realizar sua doação para a APOPHIS, de forma simples, rápida e segura.<br />
 <a href="https://pagseguro.uol.com.br/checkout/doacao.jhtml?email_cobranca=suporte@apophis.com.br&moeda=BRL" target="_blank"><img src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/205x30-doar.gif" alt="Pague com PagSeguro - é rápido, grátis e seguro!"></a>
+<br />
+Ou pelo o PayPal
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=suporte%40apophis%2ecom%2ebr&lc=BR&item_name=Jano%20Sousa&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_blank"><img src="https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - A maneira mais fácil e segura de efetuar pagamentos online!"></a>
+
+
 <h2>Licença</h2>
 <a href="https://github.com/apophis-cms/trabalhe-conosco/master/license.txt">GNU General Public License version 3 (GPLv3)</a>
